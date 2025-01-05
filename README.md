@@ -1,2 +1,1 @@
-# performancetest
-测性能
+# Rust中文
